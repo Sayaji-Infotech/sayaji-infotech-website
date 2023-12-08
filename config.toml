@@ -1,8 +1,8 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "https://sayajiinfotech.com/"
 languageCode = "en-us"
-title = "Apsho | App landing template"
-theme = "apsho"
+title = "Sayaji Infotech | One stop for all business apps"
+theme = "sayaji-template"
 
 # Navigation Bar
 [[menu.main]]
@@ -11,15 +11,15 @@ theme = "apsho"
     weight = 1
 [[menu.main]]
     name = "About"
-    url = "#feature"
+    url = "#service"
     weight = 2
 [[menu.main]]
-    name = "Services"
-    url = "#faq"
+    name = "Projects"
+    url = "#feature"
     weight = 3
 [[menu.main]]
-    name = "Blog"
-    url = "#blog"
+    name = "Websites"
+    url = "#screenshots"
     weight = 4
 
 # Footer Sitemap
@@ -28,41 +28,31 @@ theme = "apsho"
     url = "#"
     weight = 1
 [[menu.sitemap]]
-    name = "Latest Article"
-    url = "/blog"
-    weight = 2
-[[menu.sitemap]]
-    name = "Privacy & Policy"
-    url = "/privacy"
-    weight = 3
-[[menu.sitemap]]
     name = "Contact"
     url = "/contact"
-    weight = 4
+    weight = 2
 
 # Footer Address
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "apsho@example.com"
-phone = "+(448) 833 5272 332"
+address = "317-18, Serene Centrum, Gotri-Laxmipura 30 mtr. Main Road, New Alkapuri, Vadodara"
+email = "mail2sayajiinfo@gmail.com"
+phone = "+(91) 8732 992 181"
 
 # Footer Social
 [params.social]
-facebook = "https://www.facebook.com/pg/staticmania"
-twitter = "https://twitter.com/static_mania"
-github = "https://github.com/StaticMania"
+github = "https://github.com/Sayaji-Infotech"
 
 [params]
 
 # Header
 logo = "images/logo.png"
-fabFormURL = "https://fabform.io/f/zWMBVeW"
-googleAnalytics = "UA-175025671-2"
+fabFormURL = "https://fabform.io/f/HqfaYqu"
+googleAnalytics = ""
 
 # Footer
-footerTitle = "Get the latest app updates"
+footerTitle = "Turn your custom app from idea to reality"
 copyright1 = "All right reserved"
-copyright2 = "Copyright ©  <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a> {year}"
+copyright2 = "Copyright ©  Sayaji Infotech {year}"
 
 #contact
-email = "help@staticmania.com"
+email = "mail2sayajiinfo@gmail.com"

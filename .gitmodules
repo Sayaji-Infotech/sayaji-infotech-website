@@ -1,0 +1,3 @@
+[submodule "themes/sayaji-template"]
+	path = themes/sayaji-template
+	url = https://github.com/Sayaji-Infotech/sayaji-infotech-site-template.git

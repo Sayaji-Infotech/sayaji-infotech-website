@@ -1,12 +1,23 @@
 ---
 enable: true
-title: Have a look our awesome app screenshots
-description: Credibly synthesize multimedia based networks vis-a-vis top-linegrowth strategies. Continually leverage existing worldwide interfaces
+title: Have a look beautiful websites we've designed
+#description: 
 
 images:
-  - url: images/screenshots/slider1.png
-  - url: images/screenshots/slider2.png
-  - url: images/screenshots/slider3.png
-  - url: images/screenshots/slider4.png
-  - url: images/screenshots/slider5.png
-  - url: images/screenshots/slider3.png
+  - url: images/screenshots/slider1.jpeg
+    link: http://traxbee.in/
+
+  - url: images/screenshots/slider2.jpeg
+    link: https://devalpolymers.com/
+ 
+  - url: images/screenshots/slider3.jpeg
+    link: https://limepi.org/
+
+  - url: images/screenshots/slider4.jpeg
+    link: https://sayajibio.com/
+  
+  - url: images/screenshots/slider5.jpeg
+    link: https://reverent-lumiere-df72bb.netlify.app/
+
+  - url: images/screenshots/slider6.jpeg
+    link: https://www.ruchit.dev/

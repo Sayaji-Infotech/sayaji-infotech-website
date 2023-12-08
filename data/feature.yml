@@ -5,10 +5,11 @@ description: Utilizing Predictive Maintenance intelligently anticipates machine 
 description2: A machine, fitted with sensors like vibration, temperature, and pressure, transmits real-time data through algorithms hosted on LimePi Zero—a multifunctional Gateway. This system predicts anomalies, triggers alarms, and displays live monitoring on a custom web app with insightful dashboards.
 #buttonText: Try It Free
 Title2nd: Crane Monitoring @ L&T
-description2nd: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
+description2nd: "Enhancing safety and efficiency, our intelligent crane monitoring system at L&T provides real-time tracking of crane movements on a dashboard. It triggers alarms and alerts if safety locks are bypassed, preventing potential accidents."
 image1: images/feature/pdm.png
 image2: images/feature/crane_mon.png
 checkItem:
-  - text: Next to the hosting account you want to use.
-  - text: Select or enter the domain name you want to use.
-  - text: After you purchase a hosting plan.
+  - text: Monitor crane motor VFD parameters for optimal operation.
+  - text: Employ advanced anti-collision technology for increased safety.
+  - text: LimeCore Pro device acts as a gateway, relaying data and issuing alarms.
+  - text: Data presented on a custom web dashboard for detailed analysis.

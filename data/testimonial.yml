@@ -1,24 +1,24 @@
 ---
 enable: true
-title: What clients are say about this app
-description: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
+title: What our clients say about us
+#description: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
 comments:
-  - text: This is the best overall experience I have had with any template of any kind. Statimania made me feel like a valued customer and I feel empowered.
-    name: Juhair Islam
-    designation: Senior Developer
-    image: images/client/client-2.png
+  - text: Exceptional results, unparalleled innovation—our business soared to new heights with their custom solutions and unwavering commitment to excellence.
+    name: Sunny Khatri
+    designation: CEO, TraxBee
+    image: images/client/TB.png
 
-  - text: Apsho was easy to set-up and more importantly, was dead simple to customize. Buy this on sight. Most worthy template I've ever buy
-    name: Jona Raisha
-    designation: UX Designer
-    image: images/client/client-1.png
+  - text: Transformative and reliable—our partnership with this business has been a game-changer, delivering top-notch solutions that exceeded our expectations.
+    name: Nilesh Jambucha
+    designation: Founder, TraxBee
+    image: images/client/TB.png
 
-  - text: Best. customer. service. Seriously, I opened a ticket and they were so helpful and really seemed to care about my experience.
-    name: Xevier John
-    designation: CTO
-    image: images/client/client-3.png
+  - text: Revolutionizing reliability with their predictive maintenance prowess, this team's foresight and precision have saved us time and resources, ensuring seamless operations and minimal downtime.
+    name: Parth Acharya
+    designation: CTO, Nikka Instruments
+    image: images/client/nikka.png
      
-  - text: We’ve used their templates before and have always been hugely satisfied - Stack is no exception
-    name: Kerri Reece
-    designation: Designer
-    image: images/client/client-1.png
+  - text: From vision to reality—our website designed by this team is not just visually stunning but also seamlessly functional, elevating our online presence and user experience to unprecedented levels.
+    name: Smit Patel
+    designation: Owner, Sayaji Bio Energies
+    image: images/client/sayajibio.png
