@@ -47,7 +47,7 @@ github = "https://github.com/Sayaji-Infotech"
 # Header
 logo = "images/logo.png"
 fabFormURL = "https://fabform.io/f/HqfaYqu"
-googleAnalytics = ""
+googleAnalytics = "G-BZL23MBFWX"
 
 # Footer
 footerTitle = "Turn your custom app from idea to reality"
