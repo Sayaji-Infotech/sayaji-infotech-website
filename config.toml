@@ -34,8 +34,8 @@ theme = "sayaji-template"
 
 # Footer Address
 [params.address]
-address = "317-18, Serene Centrum, Gotri-Laxmipura 30 mtr. Main Road, New Alkapuri, Vadodara"
-email = "mail2sayajiinfo@gmail.com"
+address = "SB-3, Race Course Towers, Race Course Rd, near Pashabhai Park,opp Natubhai Circle, Vadiwadi, Vadodara"
+email = "office@sayajiinfotech.com"
 phone = "+(91) 8732 992 181"
 
 # Footer Social
@@ -55,4 +55,4 @@ copyright1 = "All right reserved"
 copyright2 = "Copyright ©  Sayaji Infotech {year}"
 
 #contact
-email = "mail2sayajiinfo@gmail.com"
+email = "office@sayajiinfotech.com"
