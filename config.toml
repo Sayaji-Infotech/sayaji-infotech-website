@@ -21,6 +21,10 @@ theme = "sayaji-template"
     name = "Websites"
     url = "#screenshots"
     weight = 4
+[[menu.main]]
+    name = "Blogs"
+    url = "/blog"
+    weight = 5
 
 # Footer Sitemap
 [[menu.sitemap]]
@@ -31,6 +35,11 @@ theme = "sayaji-template"
     name = "Contact"
     url = "/contact"
     weight = 2
+[[menu.sitemap]]
+    name = "Blogs"
+    url = "/blog"
+    weight = 3
+
 
 # Footer Address
 [params.address]
